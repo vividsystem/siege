@@ -1,0 +1,12 @@
+[submodule "week1"]
+	path = week1
+	url = git@github.com:vividsystem/keebmaster.git
+	branch = master
+[submodule "week2"]
+	path = week2
+	url = git@github.com:vividsystem/wisort.git
+	branch = master
+[submodule "week3"]
+	path = week3
+	url = git@github.com:vividsystem/witchat.git
+	branch = master
