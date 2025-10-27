@@ -10,3 +10,7 @@
 	path = week3
 	url = git@github.com:vividsystem/witchat.git
 	branch = master
+[submodule "week4"]
+	path = week4
+	url = git@github.com:vividsystem/pos-todo.git
+	branch = master
